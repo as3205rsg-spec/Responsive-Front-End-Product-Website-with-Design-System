@@ -1,0 +1,2 @@
+# Responsive-Front-End-Product-Website-with-Design-System
+Build a polished multi-page front end for a product or service brand, starting from original design work rather than a template. Requires a design system created in Figma/Photoshop/Illustrator - logo, colour tokens, type scale, component library - then implemented in HTML5/CSS3/JavaScript with Flexbox and Grid, CSS animations, dark mode etc.
